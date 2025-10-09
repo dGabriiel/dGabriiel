@@ -1,7 +1,5 @@
 # 👋 ¡Hola, soy Gabriel!
 
-(assets/mi-banner.png)
-
 ## QA Engineer Junior | Manual & Automation Testing
 
 Apasionado por el aseguramiento de la calidad y la mejora continua de productos digitales. Mi experiencia se centra en el diseño, ejecución y documentación de pruebas tanto manuales como automatizadas, siempre buscando garantizar la mejor experiencia de usuario.
