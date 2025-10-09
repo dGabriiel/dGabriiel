@@ -1,4 +1,5 @@
 # 👋 ¡Hola, soy Gabriel!
+![QA Engineer Diana Gabriel](assets/mi-banner.png)
 
 ## QA Engineer Junior | Manual & Automation Testing
 
