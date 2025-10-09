@@ -1,8 +1,11 @@
 # 👋 ¡Hola, soy Gabriel!
+<p align="center">
+  <img src="RUTA_DE_LA_IMAGEN" alt="Banner Diana Gabriel" width="100%" />
+</p>
 
 ## QA Engineer Junior | Manual & Automation Testing
 
-Apasionado por el aseguramiento de la calidad y la mejora continua de productos digitales. Mi experiencia se centra en el diseño, ejecución y documentación de pruebas tanto manuales como automatizadas, siempre buscando garantizar la mejor experiencia de usuario.
+Apasionada por el aseguramiento de la calidad y la mejora continua de productos digitales. Mi experiencia se centra en el diseño, ejecución y documentación de pruebas tanto manuales como automatizadas, siempre buscando garantizar la mejor experiencia de usuario.
 
 ---
 
