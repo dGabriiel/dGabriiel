@@ -1,7 +1,4 @@
-# 👋 ¡Hola, soy Gabriel!
-<p align="center">
-  <img src="RUTA_DE_LA_IMAGEN" alt="Banner Diana Gabriel" width="100%" />
-</p>
+# 👋 ¡Hola, soy Diana Gabriel!
 
 ## QA Engineer Junior | Manual & Automation Testing
 
