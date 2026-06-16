@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Diana Gabriel!
 
-## QA Engineer Junior | Manual & Automation Testing
+## QA Engineer  | Manual & Automation Testing
 
 Apasionada por el aseguramiento de la calidad y la mejora continua de productos digitales. Mi experiencia se centra en el diseño, ejecución y documentación de pruebas tanto manuales como automatizadas, siempre buscando garantizar la mejor experiencia de usuario.
 
